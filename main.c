@@ -1,6 +1,6 @@
 //
 //  main.c
-//  prime_test
+//  divisor_test
 //
 //  Created by Tamara on 12/23/19.
 //  Copyright © 2019 Tamara. All rights reserved.
